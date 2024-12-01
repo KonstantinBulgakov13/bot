@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e77c235-ac41-4fba-ab20-5e2b9fed9849" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/images/1727029167727-1477918781820468916jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/1727029167992-6921449596657525728jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/17270291681474949889791886435717jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/1727029168379-3122722893974852576jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/1727030411782-3220695924581446059jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/1727030412041-553136181692762364jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/17270304121899120789335807182585jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/1727030412338-3981354361298180352jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/1727030816600-4450690479452237987jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/1727030816867-3629290075196554692jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/17270308170199220456666671211461jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/crab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/image.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Bot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Function/FilterOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Function/ImageOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ImageUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/changeImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/Override.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/image.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/ImageUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/PhotoMessageUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/RgbMaster.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2mIdzHSeh5D1pZngSaaZdhPg2IK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/ПоВеФе/Documents/Java/HW/BotTelegram/src/main/java",
+    "last_opened_file_path": "C:/Users/ПоВеФе/Documents/Java/HW/BotTelegram",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e77c235-ac41-4fba-ab20-5e2b9fed9849" name="Changes" comment="" />
+      <created>1726768284767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726768284767</updated>
+    </task>
+    <servers />
+  </component>
+</project>
